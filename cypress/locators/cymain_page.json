@@ -1,0 +1,18 @@
+{
+    "form": "cy.get('.bg-white')",
+    "form_fogot": "cy.get('.bg-white')",
+    "title": ".text-2xl",
+    "email": ":nth-child(1) > .relative > .pl-10",
+    "email_text": ":nth-child(1) > .block",
+    "password": ":nth-child(2) > .relative > .pl-10",
+    "password_text": ":nth-child(2) > .block",
+    "login_button": ".bg-blue-500",
+    "fogot_pass_btn": ".text-center > .text-blue-500",
+    "footer": ".text-gray-600",
+    "avatars": ".w-12",
+    "avatars_block": ".top-4 > .relative > .absolute",
+    "avatars_text": ".absolute > .text-gray-700",
+    "avatars_github": ".absolute > .flex",
+    "walpaper": ".flex-1"
+  }
+  

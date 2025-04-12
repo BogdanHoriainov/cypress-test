@@ -1,0 +1,7 @@
+{
+  "title": ".text-2xl",
+  "close": ".inline-flex",
+  "footer": ".text-center.p-4",
+  "block": ".flex-1 > .bg-white",
+  "title_error": ".text-red-500"
+}
